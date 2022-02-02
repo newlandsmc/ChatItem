@@ -1,5 +1,5 @@
 name: ChatItem
-version: 1.0-SNAPSHOT-
+version: 1.0-SNAPSHOT-28f72c7
 main: com.semivanilla.chatitem.ChatItem
 description: Show an item preview in chat.
 authors:
