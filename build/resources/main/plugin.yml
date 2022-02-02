@@ -1,8 +1,0 @@
-name: ChatItem
-version: 1.0-SNAPSHOT-28f72c7
-main: com.semivanilla.chatitem.ChatItem
-description: Show an item preview in chat.
-authors:
- - destro174
-website: https://github.com/SemiVanilla-MC/ChatItem
-api-version: 1.18
