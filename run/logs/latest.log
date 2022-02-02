@@ -1,0 +1,60 @@
+[10:55:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:55:35] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[10:55:35] [Worker-Main-4/INFO]: Loaded 7 recipes
+[10:55:36] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[10:55:36] [Server thread/INFO]: Loading properties
+[10:55:36] [Server thread/INFO]: This server is running Paper version git-Paper-178 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT) (Git: 3109dd8)
+[10:55:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:55:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:55:36] [Server thread/INFO]: Default game type: SURVIVAL
+[10:55:36] [Server thread/INFO]: Generating keypair
+[10:55:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:55:36] [Server thread/INFO]: Using epoll channel type
+[10:55:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:55:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[10:55:37] [Server thread/INFO]: [ChatItem] Loading ChatItem v1.0-SNAPSHOT-
+[10:55:37] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.3-dev+9-5c46bea
+[10:55:37] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.19.3-dev+9-5c46bea
+[10:55:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:55:37] [Server thread/INFO]: Preparing level "world"
+[10:55:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:55:37] [Server thread/INFO]: Time elapsed: 155 ms
+[10:55:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:55:37] [Server thread/INFO]: Time elapsed: 62 ms
+[10:55:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:55:37] [Server thread/INFO]: Time elapsed: 126 ms
+[10:55:37] [Server thread/INFO]: [ChatItem] Enabling ChatItem v1.0-SNAPSHOT-
+[10:55:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.3-dev+9-5c46bea
+[10:55:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:55:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:55:38] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[10:55:38] [Server thread/INFO]: [Essentials] Using locale en_US
+[10:55:38] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:55:38] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:55:38] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[10:55:38] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.19.3-dev+9-5c46bea
+[10:55:38] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[10:55:38] [Server thread/INFO]: Running delayed init tasks
+[10:55:38] [Server thread/INFO]: Done (2.084s)! For help, type "help"
+[10:55:38] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[10:55:38] [Server thread/INFO]: Timings Reset
+[10:56:00] [User Authenticator #1/INFO]: UUID of player destro174 is bfa6c180-c640-47bf-83c4-4b66ff7c5170
+[10:56:00] [Server thread/INFO]: destro174 joined the game
+[10:56:00] [Server thread/INFO]: destro174[/127.0.0.1:53004] logged in with entity id 241 at ([world]46.279774118561235, 72.0, 3.0825106125608763)
+[10:56:03] [Async Chat Thread - #0/INFO]: <destro174> [i]Butter knife x1
+[11:02:53] [Server thread/INFO]: destro174 was slain by Zombie
+[11:02:58] [Server thread/INFO]: destro174 lost connection: Disconnected
+[11:02:58] [Server thread/INFO]: destro174 left the game
+[11:03:01] [Server thread/INFO]: Stopping server
+[11:03:01] [Server thread/INFO]: Saving players
+[11:03:01] [Server thread/INFO]: Saving worlds
+[11:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:03:01] [Server thread/INFO]: Flushing Chunk IO
+[11:03:01] [Server thread/INFO]: Closing Thread Pool
+[11:03:01] [Server thread/INFO]: Closing Server
