@@ -1,5 +1,0 @@
-#
-
-chatitem:
-  item-format: '<aqua>[i]</aqua><itemstack> <white>x<amount></white> '
-config-version: 1
